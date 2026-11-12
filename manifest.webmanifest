@@ -1,0 +1,48 @@
+{
+  "id": "./",
+  "name": "IELTS Boost — Stage 56 Performance & Accessibility",
+  "short_name": "IELTS Boost",
+  "lang": "uz",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#f3f6fb",
+  "theme_color": "#f3f6fb",
+  "description": "Stage 56: fast, accessible 84-day IELTS learning with demand-loaded 19K vocabulary, offline audio and local-first progress.",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "prefer_related_applications": false,
+  "categories": [
+    "education",
+    "productivity"
+  ]
+}
